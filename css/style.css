@@ -1,0 +1,17 @@
+.jumbotron {
+    background: url('https://images.pexels.com/photos/2257/bridge-path-straight-wooden.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+
+.jumbotron,
+#info span[data-member-since] {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.btn_position {
+    position: relative;
+    bottom: 100px;
+    display: flex;
+    justify-content: center;   
+}
